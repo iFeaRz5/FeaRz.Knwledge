@@ -50,4 +50,3 @@ total_bayar = total_harga + pajak
 print(f"                                   Jumlah Bayar    Rp {total_harga}")
 print(f"                                   Pajak 10%       Rp {pajak}      ")
 print(f"                                   Total Bayar     Rp {total_bayar}")
-print("Kasir : Desta Yoga pratama dan Muhammad Dauddy Ibrahim              ")
