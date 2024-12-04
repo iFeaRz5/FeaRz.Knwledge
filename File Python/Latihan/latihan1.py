@@ -1,0 +1,5 @@
+print("===========================")
+print("Nama : Desta_Yoga_Pratama")
+print("Kelas : 15.1B.05")
+print("Jurusan : Informatika")
+print("===========================")
